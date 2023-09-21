@@ -1,6 +1,6 @@
 # Image analysis notebooks
 
-This is a colletion of materials for processing images of manuscripts using
+This is a collection of materials for processing images of manuscripts using
 Python. It is intended primarily for teaching purposes, aimed at students in
 the Humanities who have little or no specialist expertise in programming or
 image processing. As such, it is not intended to represent the latest in the
