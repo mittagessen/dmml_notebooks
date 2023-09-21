@@ -1,5 +1,7 @@
 # Image analysis notebooks
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mittagessen/dmml_notebooks/HEAD)
+
 This is a collection of materials for processing images of manuscripts using
 Python. It is intended primarily for teaching purposes, aimed at students in
 the Humanities who have little or no specialist expertise in programming or
